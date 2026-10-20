@@ -1,2 +1,3 @@
 # auth-platform-testmetest
-Auth and user management platform
+
+Authentication and user management service using Supabase.
